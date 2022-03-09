@@ -1,4 +1,4 @@
-# RustGameServer_Tools
+# Rust Game Server Tools
 A set of tools for helping run and administer your Rust Game Server
 
 Download the bash script files and place in the Rust Server directory. 
